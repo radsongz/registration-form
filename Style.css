@@ -1,0 +1,98 @@
+body {
+    background-image: url(https://i.pinimg.com/550x/94/fb/9e/94fb9e94f0db7e3d429df2d9c64527d2.jpg);
+      font-family: 'Arial;
+ }
+ .regbox {
+      width: 360px;
+      height: 708px;
+      margin: auto;
+      background-color:rgb(64, 130, 109);
+      border-radius: 3px;
+ }
+ 
+ .logbox {
+     width: 360px;
+     height: 280px;
+     margin: auto;
+     border-radius: 3px;
+     background-color: rgb(64, 130, 109);
+ }
+ 
+ h1 {
+     text-align: center;
+     padding-top: 15px;
+ }
+ h4 {
+     text-align: center;
+ }
+ form {
+     width: 300px;
+     margin-left: 20px;
+ }
+ 
+ form label {
+     display: flex;
+     margin-top: 20px;
+     font-size: 18px;
+ }
+ form input {
+     width: 100%;
+     padding: 7px;
+     border: none;
+     border: 1px solid gray;
+     border-radius: 6px;
+     outline: none;
+ }
+ 
+ input[type=button] {
+     width: 320px;
+     height: 35px;
+     margin-top: 20px;
+     border: none;
+     cursor: pointer;
+     background-color: #49c1a2;
+     color: white;
+     font-size: 18px;
+ }
+ 
+ input[type=button]:hover {
+     opacity: 0.8;
+ }
+ 
+ button {
+     width: 320px;
+     height: 35px;
+     margin-top: 20px;
+     border: none;
+     cursor: pointer;
+     background-color:#40E0D0;
+     color: white;
+     font-size: 18px;
+ }
+ 
+ button:hover {
+     opacity: 0.8;
+   }
+ 
+ p {
+     text-align: center;
+     padding-top: 20px;
+     font-size: 15px;
+ }
+ 
+ .para2 {
+     text-align: center;
+     color: white;
+     font-size: 15px;
+     margin-top: -10px;
+ }
+ 
+ .para2 a {
+     color:#ffa500;
+ }
+ 
+  
+ <html>
+ 
+ <head>
+   <
